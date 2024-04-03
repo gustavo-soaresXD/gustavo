@@ -1,0 +1,3 @@
+#Exemplo de impressão em Python
+Mensagem="Olá, mundo!"
+print(mensagem)
